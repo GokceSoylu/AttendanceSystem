@@ -29,3 +29,7 @@ bilgisayar kamerasıyla çekim soonuçları baya kötü
 - Olumsuz
 - - Sınıfta iki kez aynı kişiyi saydı
 - - Süre uzun 50sn-1dk
+
+### Sytem Updated2 
+bir öğrencinin sınıfta iki kez sayılmasının önüne geçmek için güncelleme yapıldı
+class4 reminde %100 başarıya ulatı
