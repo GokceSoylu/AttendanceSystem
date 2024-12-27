@@ -21,3 +21,11 @@ let's start 10.12.24
 | eyvah4 | 10/4          | 10/7           | 0.571       |
 
 bilgisayar kamerasıyla çekim soonuçları baya kötü
+
+### System updated1
+- Olumlu
+- - Yüzlerin tamamı algılandı
+
+- Olumsuz
+- - Sınıfta iki kez aynı kişiyi saydı
+- - Süre uzun 50sn-1dk
